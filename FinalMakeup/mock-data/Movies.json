@@ -1,0 +1,290 @@
+[
+    {
+        "title": "The Lost Adventure",
+        "releaseDate": "2021-03-15",
+        "leadActor": "John Hammington",
+        "genres": "Action"
+    },
+    {
+        "title": "Love in the City",
+        "releaseDate": "2019-06-25",
+        "leadActor": "Emma Stone",
+        "genres": "Romance"
+    },
+    {
+        "title": "Shadow of the Night",
+        "releaseDate": "2020-10-31",
+        "leadActor": "Michael Fassbender",
+        "genres": "Thriller"
+    },
+    {
+        "title": "Bright Future",
+        "releaseDate": "2018-04-10",
+        "leadActor": "Sandra Bullock",
+        "genres": "Drama"
+    },
+    {
+        "title": "The Galactic Wars",
+        "releaseDate": "2022-12-18",
+        "leadActor": "Chris Pratt",
+        "genres": "Sci-Fi"
+    },
+    {
+        "title": "The Hidden Trail",
+        "releaseDate": "2020-07-22",
+        "leadActor": "Mila Kunis",
+        "genres": "Mystery"
+    },
+    {
+        "title": "Underwater Kingdom",
+        "releaseDate": "2019-01-20",
+        "leadActor": "Jason Momoa",
+        "genres": "Fantasy"
+    },
+    {
+        "title": "Speed of Light",
+        "releaseDate": "2017-09-08",
+        "leadActor": "Ryan Gosling",
+        "genres": "Sci-Fi"
+    },
+    {
+        "title": "The Last Kingdom",
+        "releaseDate": "2018-11-12",
+        "leadActor": "Kate Winslet",
+        "genres": "Historical Drama"
+    },
+    {
+        "title": "The Forbidden Forest",
+        "releaseDate": "2021-10-02",
+        "leadActor": "Tom Holland",
+        "genres": "Fantasy"
+    },
+    {
+        "title": "Chasing Shadows",
+        "releaseDate": "2022-05-15",
+        "leadActor": "Jessica Chastain",
+        "genres": "Thriller"
+    },
+    {
+        "title": "Echoes of the Past",
+        "releaseDate": "2017-03-27",
+        "leadActor": "Leonardo DiCaprio",
+        "genres": "Drama"
+    },
+    {
+        "title": "The Crimson Blade",
+        "releaseDate": "2020-08-30",
+        "leadActor": "Charlize Theron",
+        "genres": "Action"
+    },
+    {
+        "title": "Beyond the Horizon",
+        "releaseDate": "2019-12-14",
+        "leadActor": "Chris Hemsworth",
+        "genres": "Adventure"
+    },
+    {
+        "title": "Silent Whispers",
+        "releaseDate": "2021-01-18",
+        "leadActor": "Scarlett Johansson",
+        "genres": "Mystery"
+    },
+    {
+        "title": "Deep Space",
+        "releaseDate": "2018-02-22",
+        "leadActor": "Benedict Cumberbatch",
+        "genres": "Sci-Fi"
+    },
+    {
+        "title": "The Golden Age",
+        "releaseDate": "2020-11-25",
+        "leadActor": "Cate Blanchett",
+        "genres": "Historical Drama"
+    },
+    {
+        "title": "Wings of Freedom",
+        "releaseDate": "2017-07-17",
+        "leadActor": "Hugh Jackman",
+        "genres": "Action"
+    },
+    {
+        "title": "The Dark Secret",
+        "releaseDate": "2019-09-05",
+        "leadActor": "Margot Robbie",
+        "genres": "Thriller"
+    },
+    {
+        "title": "The Lone Survivor",
+        "releaseDate": "2021-06-30",
+        "leadActor": "Matt Damon",
+        "genres": "Action"
+    },
+    {
+        "title": "The Silent Storm",
+        "releaseDate": "2018-12-02",
+        "leadActor": "Jennifer Lawrence",
+        "genres": "Drama"
+    },
+    {
+        "title": "Rogue Mission",
+        "releaseDate": "2022-03-10",
+        "leadActor": "Daniel Craig",
+        "genres": "Action"
+    },
+    {
+        "title": "Echo in the Mountains",
+        "releaseDate": "2019-04-18",
+        "leadActor": "Amy Adams",
+        "genres": "Drama"
+    },
+    {
+        "title": "Parallel Worlds",
+        "releaseDate": "2017-11-27",
+        "leadActor": "Tom Hiddleston",
+        "genres": "Sci-Fi"
+    },
+    {
+        "title": "The Silver Key",
+        "releaseDate": "2021-05-21",
+        "leadActor": "Emily Blunt",
+        "genres": "Mystery"
+    },
+    {
+        "title": "The New Frontier",
+        "releaseDate": "2020-09-13",
+        "leadActor": "Dwayne Johnson",
+        "genres": "Adventure"
+    },
+    {
+        "title": "Breaking Chains",
+        "releaseDate": "2019-02-07",
+        "leadActor": "Viola Davis",
+        "genres": "Drama"
+    },
+    {
+        "title": "City of Dreams",
+        "releaseDate": "2021-08-14",
+        "leadActor": "Ryan Reynolds",
+        "genres": "Romance"
+    },
+    {
+        "title": "Code Red",
+        "releaseDate": "2020-06-11",
+        "leadActor": "Gal Gadot",
+        "genres": "Action"
+    },
+    {
+        "title": "Fury Road",
+        "releaseDate": "2017-04-19",
+        "leadActor": "Charlize Theron",
+        "genres": "Action"
+    },
+    {
+        "title": "The Desert Flower",
+        "releaseDate": "2018-09-08",
+        "leadActor": "Lupita Nyong'o",
+        "genres": "Drama"
+    },
+    {
+        "title": "Nightfall",
+        "releaseDate": "2022-11-25",
+        "leadActor": "Jake Gyllenhaal",
+        "genres": "Thriller"
+    },
+    {
+        "title": "Ghost in the Machine",
+        "releaseDate": "2019-07-29",
+        "leadActor": "Keanu Reeves",
+        "genres": "Sci-Fi"
+    },
+    {
+        "title": "Secret Garden",
+        "releaseDate": "2017-05-14",
+        "leadActor": "Anne Hathaway",
+        "genres": "Fantasy"
+    },
+    {
+        "title": "Blaze of Glory",
+        "releaseDate": "2020-03-02",
+        "leadActor": "Mark Wahlberg",
+        "genres": "Action"
+    },
+    {
+        "title": "Hearts of Stone",
+        "releaseDate": "2021-07-23",
+        "leadActor": "Natalie Portman",
+        "genres": "Romance"
+    },
+    {
+        "title": "Ocean's Depth",
+        "releaseDate": "2018-10-15",
+        "leadActor": "Chris Evans",
+        "genres": "Adventure"
+    },
+    {
+        "title": "The Forgotten War",
+        "releaseDate": "2020-12-30",
+        "leadActor": "Brad Pitt",
+        "genres": "War"
+    },
+    {
+        "title": "Starlight",
+        "releaseDate": "2019-08-12",
+        "leadActor": "Zoe Saldana",
+        "genres": "Sci-Fi"
+    },
+    {
+        "title": "Burning Sands",
+        "releaseDate": "2021-09-29",
+        "leadActor": "Mahershala Ali",
+        "genres": "Thriller"
+    },
+    {
+        "title": "The Scarlet Letter",
+        "releaseDate": "2018-01-07",
+        "leadActor": "Nicole Kidman",
+        "genres": "Historical Drama"
+    },
+    {
+        "title": "The White Rose",
+        "releaseDate": "2022-04-18",
+        "leadActor": "Felicity Jones",
+        "genres": "Drama"
+    },
+    {
+        "title": "Fire and Ice",
+        "releaseDate": "2019-05-20",
+        "leadActor": "Henry Cavill",
+        "genres": "Fantasy"
+    },
+    {
+        "title": "The Edge of Tomorrow",
+        "releaseDate": "2017-02-09",
+        "leadActor": "Emily Blunt",
+        "genres": "Action"
+    },
+    {
+        "title": "Into the Wild",
+        "releaseDate": "2018-11-02",
+        "leadActor": "Joaquin Phoenix",
+        "genres": "Adventure"
+    },
+    {
+        "title": "The Dark Abyss",
+        "releaseDate": "2020-01-19",
+        "leadActor": "Tom Hardy",
+        "genres": "Thriller"
+    },
+    {
+        "title": "Echo of Silence",
+        "releaseDate": "2021-06-08",
+        "leadActor": "Rachel McAdams",
+        "genres": "Mystery"
+    },
+    {
+        "title": "Lost at Sea",
+        "releaseDate": "2017-09-15",
+        "leadActor": "Idris Elba",
+        "genres": "Adventure"
+    }
+]

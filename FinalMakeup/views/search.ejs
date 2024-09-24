@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title><%= title %></title>
+    <link rel="stylesheet" type="text/css" href="/styles.css">
+</head>
+<body>
+    <h1><%= title %></h1>
+
+    <p>Welcome, <%= username %>!</p>
+
+    <!-- Search form -->
+    <form action="/search" method="POST">
+        <input type="text" name="keyword" placeholder="Search for a movie..." required>
+        <button type="submit">Search</button>
+    </form>
+
+    <!-- Button to navigate to previous searches -->
+    <form action="/previous-searches" method="GET">
+        <button type="submit">View Previous Searches</button>
+    </form>
+
+    <!-- Display current search results (if any) -->
+    <% if (searchResults.length > 0) { %>
+        <h2>Search Results</h2>
+        <ul>
+            <% searchResults.forEach(result => { %>
+                <li>
+                    <strong>Title:</strong> <%= result.title %> <br>
+                    <strong>Release Date:</strong> <%= result.releaseDate %> <br>
+                    <strong> Lead Actor:</strong><%= result.leadActor %><br>
+                    <strong>Genres:</strong> <%= result.genres %>
+                </li>
+            <% }) %>
+        </ul>
+    <% } %>
+</body>
+</html>

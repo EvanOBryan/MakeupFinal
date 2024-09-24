@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title><%= title %></title>
+    <link rel="stylesheet" type="text/css" href="/styles.css">
+</head>
+<body>
+    <h1><%= title %></h1>
+
+    <p>Welcome, <%= username %>!</p>
+
+    <!-- Button to navigate back to search page -->
+    <form action="/search" method="GET">
+        <button type="submit">Back to Search</button>
+    </form>
+
+    <h2>All Previous Searches</h2>
+    <ul>
+        <% if (previousSearches.length > 0) { %>
+            <% previousSearches.forEach(search => { %>
+                <li>
+                    <strong>Search Term:</strong> <%= search.search_keyword %> <br>
+                    <strong>Date:</strong> <%= search.search_time %> <br>
+                    <strong>Username:</strong> <%= search.username %>
+                </li>
+            <% }) %>
+        <% } else { %>
+            <li>No previous searches found.</li>
+        <% } %>
+    </ul>
+</body>
+</html>
